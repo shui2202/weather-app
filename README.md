@@ -17,4 +17,4 @@ Here are some pictures of the weather app:
 
 <img width="2240" alt="Weather app showing weather in Vienna" src="https://user-images.githubusercontent.com/108314495/183469765-c8200961-e4d9-432f-bec0-ee48bc37cb7c.png">
 
-<img width="2240" alt="Weather app showing weather in London src="https://user-images.githubusercontent.com/108314495/183469848-e74bc8e0-4029-4b36-8eb6-09fce2451ba4.png">
+<img width="2240" alt="Weather app showing weather in London" src="https://user-images.githubusercontent.com/108314495/183469848-e74bc8e0-4029-4b36-8eb6-09fce2451ba4.png">
