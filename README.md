@@ -5,7 +5,7 @@ To be able to use it, go to your text editor or IDE. For this example I will be 
 
 Next, go to this repository and click the "code" dropdown menu. Click download as zip. Subsequently, unzip it. Then put those files into your VSCode.
 
-<img width="382" alt="Screenshot of "Code" dropdown menu" src="https://user-images.githubusercontent.com/108314495/183472861-4626fe03-37c0-477e-886f-f7b54d09df24.png">
+<img width="382" alt="Screenshot of 'Code' dropdown menu" src="https://user-images.githubusercontent.com/108314495/183472861-4626fe03-37c0-477e-886f-f7b54d09df24.png">
 
 To be able to run it in VSCode, you have to have Live Server installed.
 
