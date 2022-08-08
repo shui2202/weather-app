@@ -5,9 +5,15 @@ To be able to use it, go to your text editor or IDE. For this example I will be 
 
 Next, go to this repository and click the "code" dropdown menu. Click download as zip. Subsequently, unzip it. Then put those files into your VSCode.
 
+<img width="382" alt="Screenshot of "Code" dropdown menu" src="https://user-images.githubusercontent.com/108314495/183472861-4626fe03-37c0-477e-886f-f7b54d09df24.png">
+
 To be able to run it in VSCode, you have to have Live Server installed.
 
+<img width="709" alt="Screen Shot 2022-08-08 at 10 01 12 AM" src="https://user-images.githubusercontent.com/108314495/183473249-18caf6f6-3ed0-4dcb-8ced-3ee722da51ac.png">
+
 Finally, right click the html file and press "open with live server". Now that you have the app open, enjoy!
+
+<img width="311" alt="Screen Shot 2022-08-08 at 9 55 57 AM" src="https://user-images.githubusercontent.com/108314495/183473308-915621e8-12bd-4a43-bdb5-ee57aa0f754f.png">
 
 If you are wondering, I am not going to host this app due to the fact that the api has a limited amount of calls per month, and say if the amount of calls per month go over that, I will have to pay money, which I'm not hoping to do.
 
