@@ -18,3 +18,7 @@ Here are some pictures of the weather app:
 <img width="2240" alt="Weather app showing weather in Vienna" src="https://user-images.githubusercontent.com/108314495/183469765-c8200961-e4d9-432f-bec0-ee48bc37cb7c.png">
 
 <img width="2240" alt="Weather app showing weather in London" src="https://user-images.githubusercontent.com/108314495/183469848-e74bc8e0-4029-4b36-8eb6-09fce2451ba4.png">
+
+Here is a image of when the user types in the inputfield, but isn't a city:
+
+<img width="2240" alt="Screen Shot 2022-08-08 at 9 50 22 AM" src="https://user-images.githubusercontent.com/108314495/183471188-43e16db4-7f6c-4d36-a4dd-d1c521791f1c.png">
