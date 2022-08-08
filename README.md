@@ -21,4 +21,4 @@ Here are some pictures of the weather app:
 
 Here is a image of when the user types in the inputfield, but isn't a city:
 
-<img width="2240" alt="Screen Shot 2022-08-08 at 9 50 22 AM" src="https://user-images.githubusercontent.com/108314495/183471188-43e16db4-7f6c-4d36-a4dd-d1c521791f1c.png">
+<img width="2240" alt="Image of when the user types in the inputfield, but isn't a city" src="https://user-images.githubusercontent.com/108314495/183471188-43e16db4-7f6c-4d36-a4dd-d1c521791f1c.png">
